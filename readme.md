@@ -1,4 +1,4 @@
-# unicodeCategory
+# UnicodeGc
 
 Efficient [Unicode General Category](https://en.wikipedia.org/wiki/Template:General_Category_(Unicode)) validation.
 
